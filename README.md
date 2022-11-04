@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=449727)](https://ru.stackoverflow.com/users/449727/muxe1)
+
 
 
 <!--
