@@ -1,6 +1,5 @@
-### Hi there 👋
-
-
+# Hi there, I'm Muxel 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0A104A&lines=Crypto+|+Web+|+Optimization)](https://git.io/typing-svg)
 
 <!--
 **sllavon/sllavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
